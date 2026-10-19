@@ -1,21 +1,30 @@
-# neerugupta/flarum-lang-arabic (Archive)
+# flarum-lang-arabic (Archive)
 
-> **Read-only archive of released versions of neerugupta/flarum-lang-arabic.** Not for installation: use [Packagist](https://packagist.org/packages/neerugupta/flarum-lang-arabic) or the [upstream repository](https://github.com/flarum-lang/arabic).
+> **Read-only archive of released versions for flarum-lang/arabic, neerugupta/flarum-lang-arabic.** Not for installation: use Packagist or the [upstream repository](https://github.com/flarum-lang/arabic).
 
-**6** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.3`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`flarum-lang/arabic`](https://packagist.org/packages/flarum-lang/arabic)
+- [`neerugupta/flarum-lang-arabic`](https://packagist.org/packages/neerugupta/flarum-lang-arabic)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-09-30 | `^1.3` | [Browse](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v1.0.0) |
-| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v2.0.0) |
-| `v0.1.0` | 2021-07-08 | `^1.0` | [Browse](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v0.1.0) |
-| `v0.1.1` | 2022-08-29 | `^1.0` | [Browse](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v0.1.1) |
-| `v0.2.0` | 2022-08-30 | `^1.3` | [Browse](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v0.2.0) |
-| `v0.2.1` | 2022-10-13 | `^1.3` | [Browse](https://github.com/flarchive/neerugupta-flarum-lang-arabic/tree/archive/v0.2.1) |
+| `1.0.0` | 2026-09-30 | `^1.3` | [Browse](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v1.0.0) |
+| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v2.0.0) |
+| `v0.1.0` | 2021-07-08 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v0.1.0) |
+| `v0.1.1` | 2022-08-29 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v0.1.1) |
+| `v0.2.0` | 2022-08-30 | `^1.3` | [Browse](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v0.2.0) |
+| `v0.2.1` | 2022-10-13 | `^1.3` | [Browse](https://github.com/flarchive/flarum-lang-arabic/tree/archive/v0.2.1) |
 
-Catalog entry: [packages/neerugupta-flarum-lang-arabic.json](https://github.com/flarchive/archive-index/blob/main/packages/neerugupta-flarum-lang-arabic.json)
+## Catalog entries
+
+- [`flarum-lang/arabic`](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-arabic.json)
+- [`neerugupta/flarum-lang-arabic`](https://github.com/flarchive/archive-index/blob/main/packages/neerugupta-flarum-lang-arabic.json)
 
 ## About this archive
 
